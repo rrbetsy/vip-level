@@ -40,6 +40,7 @@
     line-height: 30px;
     font-weight: bold;
     position: fixed;
+    z-index: 9;
     top: 0;
     left: 0;
     background: rgb(134, 189, 46);
@@ -119,6 +120,7 @@
 
 .middle {
     position: fixed;
+    z-index: 9;
     top: 25%;
     right: 0;
     font-weight: bold;
@@ -250,7 +252,7 @@ div.contr-value span {
     width: 150px;
     height: 100px;
     background-repeat: no-repeat;
-    background-image: url(../image/Group@2x.png);
+    background-image: url(./image/Group@2x.png);
     background-size: 100%;
 }
 
