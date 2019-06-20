@@ -21,3 +21,4 @@ $(document).ready(function() {
 3、利用transform的scale属性实现视网膜屏下的1px。
 
 
+![图片](https://github.com/rrbetsy/vip-level/blob/master/image/Group@2x.png?raw=true)
